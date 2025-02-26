@@ -51,7 +51,7 @@ The **AI-Powered CSV Enrichment Tool** is a Streamlit-based application designed
 1. **Run the Application:**
 
    ```bash
-   streamlit run app.py
+   streamlit run main.py
    ```
 
 2. **Navigate the Tool:**
