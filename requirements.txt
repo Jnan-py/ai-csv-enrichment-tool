@@ -1,0 +1,6 @@
+streamlit
+streamlit-option-menu
+google-generativeai
+pandas
+plotly
+python-dotenv
